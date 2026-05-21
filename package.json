@@ -1,0 +1,16 @@
+{
+  "name": "cookiecloud-worker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "deploy:prod": "wrangler deploy --env production",
+    "preview": "wrangler preview"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250401.0",
+    "wrangler": "^4.0.0",
+    "typescript": "^5.7.0"
+  }
+}
