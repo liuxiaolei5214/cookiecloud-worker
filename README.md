@@ -11,6 +11,10 @@ Cloudflare Workers version of CookieCloud — a server for syncing browser cooki
 
 > **No server maintenance required** — runs entirely on Cloudflare's free plan (100k requests/day).
 
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yaaaaaaakkkkkke/cookiecloud-worker)
+
+Click the button above to deploy instantly to your Cloudflare account — no local setup needed.
+
 ## Why this version?
 
 | Feature | Original (Node.js/Docker) | This one (Cloudflare Workers) |

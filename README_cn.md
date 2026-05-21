@@ -11,6 +11,10 @@
 
 > **无需维护服务器** — 完全运行在 Cloudflare 免费计划上（每天 10 万次请求）。
 
+[![部署到 Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yaaaaaaakkkkkke/cookiecloud-worker)
+
+点击上方按钮一键部署到你的 Cloudflare 账户，无需本地环境。
+
 ## 为什么选择这个版本？
 
 | 对比项 | 原版 (Node.js/Docker) | 本版 (Cloudflare Workers) |
