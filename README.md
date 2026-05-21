@@ -1,6 +1,9 @@
 # CookieCloud Worker
 
-Cloudflare Workers version of [CookieCloud](https://github.com/easychen/CookieCloud) — a server for syncing browser cookies across devices via end-to-end encryption.
+> 🙏 **This project is a Cloudflare Workers port of [CookieCloud](https://github.com/easychen/CookieCloud) by [@easychen](https://github.com/easychen).**  
+> Huge thanks to easychen for creating the original end-to-end encrypted cookie sync tool that made this possible.
+
+Cloudflare Workers version of CookieCloud — a server for syncing browser cookies across devices via end-to-end encryption.
 
 [中文文档](./README_cn.md)
 

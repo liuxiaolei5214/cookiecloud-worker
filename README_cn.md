@@ -1,5 +1,8 @@
 # CookieCloud Worker
 
+> 🙏 **本项目是基于 [CookieCloud](https://github.com/easychen/CookieCloud) by [@easychen](https://github.com/easychen) 的 Cloudflare Workers 移植版。**  
+> 感谢 easychen 创造了这个优秀的端到端加密 Cookie 同步工具。
+
 [CookieCloud](https://github.com/easychen/CookieCloud) 的 Cloudflare Workers 版服务端 — 端到端加密跨设备 Cookie 同步。
 
 [English Docs](./README.md)
