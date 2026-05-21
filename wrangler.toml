@@ -2,17 +2,13 @@ name = "cookiecloud-worker"
 main = "src/index.ts"
 compatibility_date = "2025-04-01"
 
-# KV namespace for encrypted cookie data
-# 1. npx wrangler login
-# 2. npx wrangler kv namespace create COOKIE_DATA
-# 3. Copy the returned "id" below
 [[kv_namespaces]]
 binding = "COOKIE_DATA"
-id = "dev"  # Replace with real ID after creation
-preview_id = "dev"
+id = "YOUR_KV_NAMESPACE_ID"
+preview_id = "YOUR_KV_NAMESPACE_ID"
 
 [env.production]
 vars = { ENVIRONMENT = "production" }
 [[env.production.kv_namespaces]]
 binding = "COOKIE_DATA"
-id = "dev"  # Replace with production KV ID
+id = "YOUR_KV_NAMESPACE_ID"
