@@ -4,11 +4,11 @@ compatibility_date = "2025-04-01"
 
 [[kv_namespaces]]
 binding = "COOKIE_DATA"
-id = "YOUR_KV_NAMESPACE_ID"
-preview_id = "YOUR_KV_NAMESPACE_ID"
+id = "bb8c589aa4b049f4821d012cc25e2290"
+preview_id = "bb8c589aa4b049f4821d012cc25e2290"
 
 [env.production]
 vars = { ENVIRONMENT = "production" }
 [[env.production.kv_namespaces]]
 binding = "COOKIE_DATA"
-id = "YOUR_KV_NAMESPACE_ID"
+id = "bb8c589aa4b049f4821d012cc25e2290"
