@@ -5,13 +5,12 @@
 
 [CookieCloud](https://github.com/easychen/CookieCloud) 的 Cloudflare Workers 版服务端 — 端到端加密跨设备 Cookie 同步。
 
-[English Docs](./README.md)
 
 ---
 
 > **无需维护服务器** — 完全运行在 Cloudflare 免费计划上（每天 10 万次请求）。
 
-[![部署到 Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yaaaaaaakkkkkke/cookiecloud-worker)
+[![部署到 Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/liuxiaolei5214/cookiecloud-worker)
 
 点击上方按钮一键部署到你的 Cloudflare 账户，无需本地环境。
 
